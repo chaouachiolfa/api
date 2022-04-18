@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Lobster&display=swap');
+.App {
+  text-align: center;
+}
+
+html{
+  background-color: blue;
+  
+}
+h1{
+  font-family: 'Beau Rivage', cursive;
+}
